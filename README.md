@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @amonite
-- 👀 I’m interested in game dev, web dev
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on game dev projects
+- 👋 Hi, I’m @amonite.
+- 👀 I’m interested in game dev, web dev, ...
+- 🌱 I’m currently learning React and C.
+- 💞️ I’m looking to collaborate on game dev projects.
 - 📫 How to reach me : liquidmb@hotmail.com
 
 <!---
